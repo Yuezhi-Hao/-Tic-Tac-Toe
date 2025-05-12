@@ -90,7 +90,7 @@ function askMove() {
       return askReplay();//Ask if you want to replay the game
     }
 
-    // //judge draw
+    // //judge draw.
     if (JudgeDraw()) {
       printBoard();
       console.log('Sorry, draw.');
