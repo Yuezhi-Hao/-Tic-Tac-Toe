@@ -15,7 +15,7 @@ function start() {
   //the first player
   let Player = 'X';
 
-  // print the Tic-Tac-Toe borad
+  // print the Tic-Tac-Toe board
  function printBoard() {
  
   console.log('  0   1   2');
